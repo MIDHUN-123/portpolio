@@ -28,7 +28,7 @@ The portfolio highlights my experience with modern web technologies and demonstr
 ## 📁 Project Structure
 
 ```text
-Portfolio/
+mithun/
 │
 ├── public/
 ├── src/
