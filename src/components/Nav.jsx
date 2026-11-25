@@ -1,5 +1,4 @@
 import React from 'react'
-import { NavLink } from 'react-router-dom'
 import { FaMoon,FaSun } from 'react-icons/fa'
 import './Nav.css';
 
@@ -28,9 +27,14 @@ const Nav = ({darkmode,setDarkmode}) => {
                 </li>
             </ul>
         </div>
-        <div className='nav-theme' onClick={()=>setDarkmode(!darkmode)} >
+        <button
+            type='button'
+            className='nav-theme'
+            onClick={()=>setDarkmode(!darkmode)}
+            aria-label={darkmode ? 'Switch to light mode' : 'Switch to dark mode'}
+        >
             {darkmode ? <FaMoon/> : <FaSun />}
-        </div>
+        </button>
     </div>
   )
 }

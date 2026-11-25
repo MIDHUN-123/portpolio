@@ -44,7 +44,7 @@ const Projects = () => {
                 <span>EJS</span>
               </div>
 
-              <a href="#" className="project-link">
+              <a href="https://github.com/MIDHUN-123" className="project-link" target="_blank" rel="noreferrer">
                 View Project →
               </a>
 
@@ -79,7 +79,7 @@ const Projects = () => {
                 <span>Razorpay</span>
               </div>
 
-              <a href="#" className="project-link">
+              <a href="https://github.com/MIDHUN-123" className="project-link" target="_blank" rel="noreferrer">
                 View Project →
               </a>
 
@@ -113,7 +113,7 @@ const Projects = () => {
                 <span>CSS</span>
               </div>
 
-              <a href="#" className="project-link">
+              <a href="https://github.com/MIDHUN-123" className="project-link" target="_blank" rel="noreferrer">
                 View Project →
               </a>
 
@@ -147,7 +147,7 @@ const Projects = () => {
                 <span>LocalStorage</span>
               </div>
 
-              <a href="#" className="project-link">
+              <a href="https://github.com/MIDHUN-123" className="project-link" target="_blank" rel="noreferrer">
                 View Project →
               </a>
 

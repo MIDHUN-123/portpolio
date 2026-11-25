@@ -39,6 +39,10 @@
     text-decoration-thickness: 2px;
 }
 .nav-theme{
+    background: none;
+    border: none;
+    display: flex;
+    align-items: center;
     cursor: pointer;
     font-size: 20px;
     color: white;

@@ -5,7 +5,6 @@ import {
   FaMapMarkerAlt,
   FaGithub,
   FaLinkedinIn,
-  FaInstagram,
 } from 'react-icons/fa';
 
 import './Contact.css';
@@ -86,10 +85,6 @@ const Contact = () => {
 
             <a href="https://www.linkedin.com/in/mithun-n-6bb659210/" aria-label="LinkedIn">
               <FaLinkedinIn />
-            </a>
-
-            <a href="#" aria-label="Instagram">
-              <FaInstagram />
             </a>
 
             <a href="mailto:mithunchulika@gmail.com" aria-label="Email">
