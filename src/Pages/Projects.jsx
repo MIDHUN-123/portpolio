@@ -64,11 +64,12 @@ const Projects = () => {
             </div>
 
             <div className="project-content">
-
               <h2>OLX - Clone</h2>
-
+              <h2>Ecommerce Store</h2>
               <p>
-                A full-stack OLX clone built with the MERN stack, featuring user authentication, ad posting, search, filters, favorites, and real-time chat.
+                A full-stack online store with products, cart,
+                payment integration and order management.
+
               </p>
 
               <div className="project-tech">
