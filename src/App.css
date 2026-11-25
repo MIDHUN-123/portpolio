@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  background-color: #010f29;
+}
+html{
+  scroll-behavior: smooth;
+}
+
+/* Light theme: invert the dark palette, keep photos looking natural */
+.App.light{
+  filter: invert(1) hue-rotate(180deg);
+}
+.App.light img{
+  filter: invert(1) hue-rotate(180deg);
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #020227;
+}
