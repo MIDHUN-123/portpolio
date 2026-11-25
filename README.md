@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+# Personal Portfolio – MERN Stack Developer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A personal developer portfolio website built using React.js and TypeScript to showcase my technical skills, projects, and development journey as a Full Stack Web Developer.
 
-## Available Scripts
+The portfolio highlights my experience with modern web technologies and demonstrates my ability to build responsive and user-friendly web applications.
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+- Modern and responsive UI design.
+- Home section with personal introduction.
+- About Me section.
+- Technical skills showcase.
+- Projects portfolio with descriptions.
+- Contact section.
+- Social media and GitHub profile links.
+- Smooth navigation and animations.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 💻 Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- React.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- React Router
+- Git & GitHub
 
-### `npm test`
+## 📁 Project Structure
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```text
+Portfolio/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── routes/
+│   └── assets/
+│
+├── package.json
+├── package-lock.json
+├── tsconfig.json
+└── README.md
+```
 
-### `npm run build`
+## ⚙️ Installation and Setup
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 1. Clone the Repository
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/MIDHUN-123/portfolio.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 2. Navigate to Project
 
-### `npm run eject`
+```bash
+cd portfolio
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 3. Install Dependencies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 4. Start Development Server
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+npm run dev
+```
 
-## Learn More
+## 📸 Screenshots
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Screenshots of the portfolio will be added here.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 👨‍💻 About Me
 
-### Code Splitting
+I'm a passionate Full Stack Web Developer specializing in the MERN stack. I enjoy developing web applications, learning new technologies, and solving real-world problems through coding.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🎯 Career Goal
 
-### Analyzing the Bundle Size
+To become a skilled Full Stack Developer and build efficient, scalable, and user-friendly web applications.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🔗 Connect With Me
 
-### Making a Progressive Web App
+- GitHub: [MIDHUN-123](https://github.com/MIDHUN-123)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 📄 License
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This project is developed for personal portfolio and educational purposes.
